@@ -1,5 +1,6 @@
 # Data-Visualization_PowerBI
 Built a dynamic dashboard using raw data on superstore sales. 
+
 Objective: 
 To find the trends and insights from the raw data for data-driven decision making. To analyze the highest sales by each customer category that will help to increase the profit by targeting specific products, region and customers! 
 
